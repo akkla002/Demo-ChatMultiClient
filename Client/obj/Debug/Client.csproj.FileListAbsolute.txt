@@ -1,0 +1,8 @@
+D:\LTM\Demo-ChatMulti\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\LTM\Demo-ChatMulti\Client\obj\Debug\Client.fLogin.resources
+D:\LTM\Demo-ChatMulti\Client\obj\Debug\Client.Properties.Resources.resources
+D:\LTM\Demo-ChatMulti\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\LTM\Demo-ChatMulti\Client\bin\Debug\Client.exe
+D:\LTM\Demo-ChatMulti\Client\bin\Debug\Client.pdb
+D:\LTM\Demo-ChatMulti\Client\obj\Debug\Client.exe
+D:\LTM\Demo-ChatMulti\Client\obj\Debug\Client.pdb

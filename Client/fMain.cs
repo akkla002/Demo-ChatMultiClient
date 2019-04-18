@@ -11,9 +11,15 @@ namespace Client
 {
     public partial class fMain : Form
     {
-        public fMain()
+        Client theClient;
+        private fMain()
+        {
+
+        }
+        public fMain(Client theClient)
         {
             InitializeComponent();
+            this.theClient = theClient;
         }
     }
 }
